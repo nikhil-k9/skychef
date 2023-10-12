@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/skychef/static/css/main.eb53619c.css",
+    "main.js": "/skychef/static/js/main.87d749f8.js",
+    "static/js/787.da767e73.chunk.js": "/skychef/static/js/787.da767e73.chunk.js",
+    "static/media/meals.jpg": "/skychef/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/skychef/index.html",
+    "main.eb53619c.css.map": "/skychef/static/css/main.eb53619c.css.map",
+    "main.87d749f8.js.map": "/skychef/static/js/main.87d749f8.js.map",
+    "787.da767e73.chunk.js.map": "/skychef/static/js/787.da767e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb53619c.css",
+    "static/js/main.87d749f8.js"
+  ]
+}
